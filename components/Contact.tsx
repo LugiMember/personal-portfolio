@@ -36,8 +36,6 @@ export default function Contact() {
           >
             LinkedIn
           </a>
-          <span className="mx-2 text-border">·</span>
-          <span>{profile.phone}</span>
         </p>
       </div>
     </Section>
